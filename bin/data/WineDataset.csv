@@ -1,0 +1,1587 @@
+Country,Grape,Rating,From Oregon?,Price,Total Sales
+Austraila,Reisling,34,No,14.95,38
+Argentina,Chardonnay,89,No,19.99,65
+Austraila,Reisling,72,No,18.95,9
+Argentina,Pinot Grigio,98,No,8.95,121
+France,Malbec,23,No,17.99,71
+Argentina,Cava,24,No,17.95,78
+Spain,Cava,90,No,28.95,61
+France,Pinot Grigio,82,No,14.99,68
+France,Cava,91,No,34.99,72
+France,Prosecco,90,No,24.99,83
+Austraila,Cava,80,No,18.95,45
+France,Reisling,89,No,23.95,23
+United States,Malbec,2,No,17.95,30
+Austraila,Cabernet Sauvignon,90,No,27.99,60
+Italy,Chardonnay,92,No,10.99,124
+Spain,Prosecco,75,No,13.99,153
+United States,Prosecco,23,No,15.95,83
+United States,Chardonnay,54,No,17.95,60
+France,Reisling,82,No,15.99,76
+Austraila,Prosecco,3,No,18.99,44
+France,Cabernet Sauvignon,40,No,23.95,20
+Austraila,Reisling,64,No,15.95,85
+Spain,Cava,62,No,17.99,33
+Italy,Merlot,89,No,15.95,104
+Italy,Pinot Grigio,89,No,20.99,77
+Argentina,Prosecco,6,No,18.99,45
+Italy,Cava,71,No,17.99,79
+Italy,Pinot Noir,12,No,18.99,39
+Italy,Reisling,34,No,12.99,65
+Italy,Prosecco,55,No,9.99,93
+Argentina,Merlot,53,No,16.99,91
+France,Reisling,74,No,25.99,0
+Spain,Malbec,91,No,12.95,89
+Argentina,Cava,75,No,13.99,138
+Spain,Malbec,20,No,12.95,77
+Italy,Pinot Noir,26,No,16.95,36
+Spain,Cabernet Sauvignon,89,No,22.99,55
+Austraila,Cava,90,No,24.95,71
+Argentina,Malbec,10,No,10.95,144
+Austraila,Chardonnay,90,No,23.99,68
+Argentina,Cava,89,No,16.95,73
+Italy,Malbec,53,No,13.99,110
+Spain,Pinot Noir,26,No,14.99,78
+Spain,Malbec,39,No,16.99,37
+Spain,Reisling,6,No,9.95,95
+Spain,Pinot Grigio,75,No,15.95,73
+Italy,Chardonnay,75,No,16.99,37
+Italy,Merlot,94,No,15.95,94
+France,Pinot Grigio,50,No,22.99,23
+Spain,Pinot Noir,90,No,27.95,59
+Austraila,Pinot Noir,89,No,24.99,52
+Argentina,Chardonnay,27,No,12.99,75
+Austraila,Cava,100,No,18.95,62
+Italy,Malbec,65,No,15.95,111
+United States,Pinot Grigio,51,No,15.99,90
+Austraila,Reisling,6,No,16.95,31
+United States,Prosecco,93,No,17.99,95
+France,Merlot,36,No,17.99,76
+Austraila,Pinot Noir,92,No,30.99,102
+Spain,Pinot Grigio,89,No,24.99,37
+Italy,Pinot Grigio,58,No,11.95,62
+France,Prosecco,45,No,9.99,103
+Spain,Malbec,39,No,22.95,12
+France,Malbec,32,No,19.99,23
+United States,Cabernet Sauvignon,97,No,19.95,25
+United States,Prosecco,1,No,20.99,46
+France,Cava,63,No,22.99,18
+Argentina,Pinot Grigio,34,No,18.95,41
+Austraila,Pinot Noir,58,No,21.99,26
+France,Chardonnay,89,No,24.95,36
+France,Prosecco,39,No,17.99,97
+United States,Reisling,72,No,16.95,44
+United States,Chardonnay,90,Yes,30.99,75
+Italy,Pinot Noir,91,No,12.99,75
+United States,Pinot Grigio,25,No,13.95,130
+France,Malbec,91,No,27.99,83
+France,Cava,94,No,20.95,28
+Spain,Merlot,90,No,22.99,86
+United States,Cabernet Sauvignon,90,No,20.95,83
+Austraila,Pinot Noir,55,No,20.95,25
+France,Cava,8,No,18.95,53
+United States,Chardonnay,28,Yes,16.99,124
+Austraila,Pinot Noir,90,No,22.95,65
+United States,Pinot Noir,61,No,22.99,19
+Argentina,Cava,21,No,13.99,55
+United States,Merlot,26,No,14.99,112
+France,Chardonnay,41,No,12.99,82
+Spain,Cava,89,No,18.99,66
+Italy,Cava,90,No,22.99,76
+Austraila,Pinot Grigio,46,No,17.95,81
+Spain,Malbec,23,No,12.99,124
+Argentina,Pinot Grigio,14,No,15.99,117
+Austraila,Chardonnay,11,No,21.99,23
+Italy,Cava,89,No,26.95,47
+France,Pinot Grigio,89,No,20.95,69
+Argentina,Pinot Grigio,68,No,14.95,88
+Argentina,Chardonnay,36,No,19.99,39
+Austraila,Prosecco,46,No,16.99,118
+United States,Chardonnay,90,Yes,24.99,100
+United States,Merlot,3,No,13.99,63
+Austraila,Malbec,89,No,21.99,67
+United States,Merlot,32,No,14.95,74
+United States,Reisling,2,No,16.99,47
+France,Merlot,99,No,21.95,29
+Italy,Chardonnay,39,No,19.99,48
+Austraila,Cabernet Sauvignon,77,No,15.95,89
+France,Cabernet Sauvignon,85,No,16.99,39
+Argentina,Prosecco,29,No,14.99,71
+Spain,Merlot,65,No,16.99,82
+United States,Cava,72,No,9.95,69
+France,Pinot Grigio,21,No,18.95,63
+Italy,Pinot Noir,85,No,19.99,47
+Austraila,Merlot,57,No,13.95,134
+United States,Merlot,88,No,13.95,101
+France,Prosecco,27,No,18.99,67
+France,Cabernet Sauvignon,30,No,19.95,25
+Italy,Pinot Noir,25,No,16.99,41
+Argentina,Chardonnay,89,No,17.95,61
+Argentina,Prosecco,19,No,13.99,76
+Italy,Pinot Grigio,6,No,17.95,75
+Austraila,Prosecco,22,No,17.99,48
+Italy,Malbec,76,No,10.95,89
+Austraila,Reisling,89,No,23.99,20
+Austraila,Cava,49,No,12.99,120
+Argentina,Pinot Noir,2,No,16.95,52
+France,Pinot Grigio,24,No,15.99,105
+Argentina,Pinot Noir,100,No,16.99,95
+Italy,Malbec,47,No,11.95,124
+Argentina,Prosecco,66,No,11.99,125
+Italy,Prosecco,89,No,18.95,96
+United States,Cava,28,No,19.99,22
+Italy,Pinot Grigio,45,No,18.95,27
+Italy,Chardonnay,44,No,18.95,53
+Italy,Cabernet Sauvignon,89,No,20.99,49
+France,Pinot Noir,89,No,26.95,47
+Italy,Cabernet Sauvignon,60,No,13.95,64
+Austraila,Reisling,35,No,15.99,34
+Austraila,Pinot Grigio,24,No,13.99,124
+Argentina,Pinot Noir,40,No,17.99,31
+United States,Pinot Noir,82,No,17.99,59
+Argentina,Cabernet Sauvignon,90,No,13.99,117
+Austraila,Malbec,88,No,12.95,107
+Austraila,Malbec,55,No,12.99,58
+France,Reisling,79,No,16.99,74
+France,Malbec,41,No,21.95,30
+Austraila,Cabernet Sauvignon,34,No,11.95,69
+Argentina,Chardonnay,23,No,14.99,70
+Austraila,Prosecco,94,No,17.95,71
+Italy,Reisling,69,No,14.99,52
+Austraila,Malbec,24,No,12.99,56
+Spain,Malbec,58,No,16.99,97
+Argentina,Cava,30,No,19.99,41
+Italy,Merlot,96,No,7.95,121
+Argentina,Cava,92,No,32.99,86
+Italy,Reisling,30,No,17.95,20
+Spain,Reisling,11,No,13.99,95
+Argentina,Pinot Noir,25,No,15.99,47
+United States,Cava,91,No,25.99,83
+France,Malbec,92,No,16.95,68
+United States,Reisling,50,No,15.95,66
+Austraila,Prosecco,89,No,15.95,131
+United States,Reisling,58,No,16.95,60
+Spain,Cabernet Sauvignon,50,No,12.99,70
+Italy,Pinot Noir,32,No,12.99,68
+Spain,Pinot Grigio,90,No,24.99,69
+Spain,Merlot,15,No,10.95,119
+Italy,Malbec,89,No,21.99,50
+Argentina,Chardonnay,90,No,19.99,92
+Austraila,Pinot Noir,33,No,15.99,105
+United States,Pinot Noir,80,No,20.99,31
+Austraila,Cava,90,No,24.99,65
+United States,Cabernet Sauvignon,34,No,14.95,76
+Italy,Cava,32,No,16.99,98
+Argentina,Pinot Noir,91,No,24.99,76
+United States,Prosecco,58,No,17.95,59
+Austraila,Pinot Noir,71,No,16.99,66
+France,Cava,70,No,15.95,75
+Spain,Pinot Noir,51,No,16.95,61
+France,Pinot Noir,68,No,24.95,14
+United States,Prosecco,53,No,17.95,53
+Spain,Prosecco,55,No,15.99,119
+Argentina,Chardonnay,96,No,9.99,124
+Argentina,Cabernet Sauvignon,74,No,14.99,117
+France,Pinot Noir,81,No,27.95,5
+Austraila,Reisling,9,No,16.95,80
+Argentina,Merlot,34,No,18.99,33
+Austraila,Prosecco,68,No,11.99,148
+Argentina,Merlot,91,No,17.99,36
+United States,Chardonnay,90,No,19.95,102
+Austraila,Cabernet Sauvignon,79,No,14.99,116
+Argentina,Pinot Noir,89,No,22.99,44
+United States,Cabernet Sauvignon,66,No,20.95,20
+France,Malbec,90,No,26.99,49
+Argentina,Cabernet Sauvignon,38,No,15.99,102
+United States,Cava,36,No,21.95,26
+Argentina,Pinot Noir,89,No,29.95,44
+Italy,Pinot Noir,55,No,18.95,64
+Spain,Cabernet Sauvignon,64,No,18.95,48
+Argentina,Cava,90,No,12.95,114
+Austraila,Malbec,88,No,17.99,55
+France,Prosecco,90,No,28.99,74
+France,Merlot,90,No,27.99,51
+Argentina,Chardonnay,38,No,12.95,108
+Argentina,Prosecco,62,No,12.99,169
+Spain,Merlot,9,No,12.99,93
+United States,Merlot,33,No,15.99,51
+Italy,Malbec,89,No,26.99,37
+Spain,Cabernet Sauvignon,60,No,16.95,93
+United States,Prosecco,41,No,14.99,133
+Austraila,Cava,12,No,18.99,50
+France,Reisling,14,No,9.99,95
+Argentina,Malbec,31,No,18.99,41
+United States,Prosecco,97,No,16.95,69
+Argentina,Cava,46,No,15.95,68
+France,Prosecco,90,No,21.95,89
+Spain,Cabernet Sauvignon,74,No,17.99,48
+France,Prosecco,23,No,20.95,61
+Argentina,Cabernet Sauvignon,89,No,16.99,92
+Italy,Pinot Grigio,47,No,19.99,33
+Argentina,Reisling,52,No,15.99,26
+Italy,Pinot Noir,19,No,22.99,21
+United States,Malbec,20,No,21.95,34
+Austraila,Prosecco,90,No,25.95,71
+Italy,Reisling,10,No,16.95,55
+Spain,Malbec,76,No,16.99,99
+United States,Cava,27,No,21.95,13
+France,Cabernet Sauvignon,67,No,16.95,89
+France,Pinot Grigio,76,No,19.95,40
+Argentina,Reisling,4,No,16.99,63
+France,Cabernet Sauvignon,61,No,17.99,64
+France,Cabernet Sauvignon,33,No,17.99,32
+France,Pinot Noir,90,No,33.95,47
+Austraila,Malbec,22,No,10.95,136
+France,Prosecco,89,No,27.99,60
+United States,Pinot Noir,89,No,19.95,64
+Argentina,Cava,73,No,10.95,82
+Austraila,Pinot Noir,69,No,17.99,67
+Italy,Prosecco,90,No,23.99,85
+Italy,Merlot,6,No,12.95,73
+Spain,Malbec,39,No,16.99,73
+France,Pinot Grigio,17,No,20.95,24
+Austraila,Pinot Grigio,19,No,16.99,73
+France,Pinot Grigio,23,No,14.99,91
+Argentina,Cava,25,No,16.95,39
+Spain,Chardonnay,43,No,14.95,59
+Spain,Prosecco,58,No,21.99,44
+Austraila,Malbec,44,No,14.95,89
+France,Malbec,89,No,29.99,29
+Austraila,Prosecco,45,No,15.95,84
+Austraila,Malbec,89,No,17.99,83
+Argentina,Cabernet Sauvignon,89,No,20.95,56
+Spain,Reisling,44,No,15.99,86
+United States,Cava,90,No,24.95,67
+United States,Malbec,62,Yes,16.99,98
+Argentina,Cava,56,No,10.95,124
+Austraila,Prosecco,92,No,15.95,89
+Argentina,Prosecco,27,No,13.95,79
+France,Chardonnay,41,No,18.95,63
+United States,Cava,21,No,15.95,76
+Argentina,Pinot Grigio,89,No,25.99,31
+United States,Reisling,61,No,13.95,48
+France,Chardonnay,42,No,20.99,18
+Spain,Reisling,14,No,15.99,45
+France,Cava,59,No,17.95,68
+France,Cabernet Sauvignon,90,No,24.95,66
+Italy,Malbec,22,No,13.99,62
+Argentina,Malbec,48,No,11.99,134
+Spain,Reisling,37,No,14.95,127
+United States,Cava,23,No,14.95,69
+Argentina,Pinot Grigio,87,No,17.95,53
+France,Prosecco,90,No,16.99,85
+Spain,Cabernet Sauvignon,3,No,15.95,88
+Austraila,Cava,55,No,15.99,65
+United States,Chardonnay,88,Yes,21.95,54
+United States,Reisling,89,No,22.99,43
+Italy,Pinot Grigio,74,No,19.99,50
+Italy,Cabernet Sauvignon,63,No,15.99,63
+France,Chardonnay,31,No,17.95,64
+Spain,Prosecco,88,No,12.95,118
+Spain,Cabernet Sauvignon,63,No,13.95,69
+Austraila,Prosecco,90,No,24.95,84
+Argentina,Pinot Grigio,89,No,19.95,77
+United States,Pinot Grigio,89,Yes,20.95,91
+Italy,Malbec,79,No,18.99,66
+Argentina,Chardonnay,87,No,10.95,56
+United States,Malbec,50,No,22.99,12
+Spain,Cabernet Sauvignon,36,No,14.95,115
+Spain,Prosecco,15,No,15.99,74
+Argentina,Cava,51,No,12.99,121
+Austraila,Reisling,89,No,21.99,25
+Italy,Pinot Grigio,85,No,12.95,90
+Argentina,Pinot Noir,89,No,24.95,43
+Spain,Chardonnay,78,No,13.99,63
+Austraila,Pinot Noir,35,No,18.99,35
+France,Chardonnay,91,No,31.95,74
+Austraila,Malbec,92,No,14.99,52
+Spain,Cava,91,No,15.99,114
+Italy,Merlot,90,No,15.99,97
+Spain,Chardonnay,92,No,33.95,95
+Spain,Malbec,59,No,11.99,130
+Argentina,Reisling,34,No,18.99,20
+Spain,Pinot Noir,8,No,16.95,90
+Italy,Prosecco,3,No,15.95,130
+Italy,Pinot Noir,19,No,19.99,19
+Spain,Cava,99,No,13.99,127
+Italy,Merlot,14,No,10.95,73
+Italy,Chardonnay,27,No,14.99,132
+France,Pinot Grigio,9,No,13.95,55
+Austraila,Cabernet Sauvignon,32,No,18.99,40
+Spain,Malbec,75,No,9.99,128
+Argentina,Cabernet Sauvignon,24,No,14.95,137
+Argentina,Cabernet Sauvignon,56,No,17.99,72
+Argentina,Cabernet Sauvignon,90,No,21.95,73
+Italy,Malbec,38,No,17.95,72
+France,Reisling,69,No,10.95,93
+France,Chardonnay,14,No,17.99,46
+France,Malbec,84,No,18.95,45
+Argentina,Malbec,13,No,10.99,104
+Argentina,Pinot Grigio,64,No,16.99,90
+Italy,Malbec,41,No,12.99,75
+Austraila,Malbec,41,No,8.95,127
+Argentina,Chardonnay,38,No,14.95,71
+Italy,Reisling,51,No,23.95,0
+Spain,Cava,31,No,13.99,92
+Spain,Cava,47,No,16.95,54
+Italy,Pinot Grigio,30,No,16.99,91
+France,Malbec,91,No,20.95,36
+France,Malbec,89,No,16.95,77
+Spain,Reisling,90,No,22.99,49
+Spain,Pinot Grigio,95,No,13.99,149
+United States,Chardonnay,49,No,13.99,147
+Argentina,Reisling,89,No,21.99,49
+United States,Cava,90,No,26.95,51
+France,Merlot,89,No,22.99,65
+Italy,Pinot Noir,41,No,18.95,49
+United States,Reisling,70,Yes,22.95,38
+France,Chardonnay,89,No,23.99,51
+Spain,Prosecco,89,No,17.99,107
+United States,Chardonnay,26,No,10.99,57
+Spain,Merlot,97,No,19.99,47
+United States,Malbec,31,No,20.99,38
+France,Cabernet Sauvignon,26,No,21.99,35
+Austraila,Chardonnay,69,No,17.99,59
+Spain,Pinot Noir,55,No,13.99,89
+Spain,Pinot Grigio,89,No,19.99,26
+France,Pinot Grigio,90,No,23.99,54
+Austraila,Cava,22,No,13.99,54
+Spain,Merlot,13,No,12.95,73
+United States,Pinot Noir,90,No,25.99,59
+Italy,Reisling,2,No,15.95,82
+France,Merlot,79,No,16.95,83
+Argentina,Reisling,89,No,17.95,50
+Italy,Merlot,1,No,14.95,108
+United States,Cabernet Sauvignon,95,No,19.99,21
+United States,Merlot,54,No,15.95,81
+Austraila,Merlot,28,No,16.99,101
+France,Merlot,31,No,21.95,16
+Spain,Chardonnay,78,No,13.99,126
+France,Reisling,3,No,15.99,82
+United States,Cabernet Sauvignon,100,No,17.99,77
+United States,Prosecco,48,Yes,16.99,86
+Austraila,Prosecco,91,No,24.99,106
+Austraila,Pinot Grigio,33,No,18.99,46
+France,Malbec,58,No,19.95,26
+United States,Pinot Noir,66,No,17.99,73
+France,Malbec,91,No,24.99,74
+United States,Prosecco,47,No,7.99,158
+Spain,Reisling,79,No,10.99,36
+Austraila,Pinot Noir,59,No,17.99,30
+France,Pinot Noir,60,No,21.99,37
+France,Prosecco,90,No,29.95,71
+United States,Cava,20,No,13.95,88
+Italy,Reisling,19,No,13.99,128
+Italy,Malbec,14,No,14.99,58
+France,Pinot Grigio,92,No,30.99,99
+Italy,Pinot Noir,90,No,25.95,67
+United States,Prosecco,62,No,10.95,113
+Argentina,Prosecco,89,No,20.95,87
+Austraila,Prosecco,26,No,14.95,150
+Spain,Cava,23,No,15.99,99
+Austraila,Merlot,29,No,9.95,141
+Argentina,Prosecco,29,No,15.99,138
+Argentina,Cabernet Sauvignon,16,No,12.95,146
+France,Merlot,7,No,17.95,32
+France,Cava,13,No,19.95,49
+Austraila,Prosecco,56,No,9.99,72
+Spain,Chardonnay,64,No,18.95,55
+Argentina,Malbec,3,No,16.95,97
+Argentina,Merlot,90,No,20.95,99
+United States,Malbec,90,No,21.95,71
+Austraila,Pinot Noir,89,No,21.99,62
+Argentina,Pinot Noir,98,No,13.95,83
+Italy,Cava,81,No,8.99,98
+Italy,Malbec,38,No,19.99,33
+Argentina,Reisling,90,No,22.99,53
+Austraila,Cava,61,No,16.95,54
+Italy,Merlot,89,No,17.95,74
+Argentina,Cabernet Sauvignon,90,No,24.95,62
+United States,Cabernet Sauvignon,89,No,20.99,57
+France,Reisling,66,No,16.99,70
+Argentina,Pinot Noir,36,No,20.95,39
+Italy,Pinot Noir,25,No,14.99,119
+France,Pinot Grigio,31,No,12.99,87
+France,Pinot Grigio,82,No,20.95,44
+France,Prosecco,36,No,19.95,67
+Spain,Prosecco,70,No,15.95,69
+Argentina,Prosecco,74,No,15.99,117
+Austraila,Chardonnay,90,No,22.95,75
+United States,Malbec,65,No,21.99,17
+France,Cabernet Sauvignon,1,No,22.95,16
+United States,Malbec,40,No,22.99,24
+Spain,Merlot,94,No,13.99,55
+Italy,Malbec,49,No,17.95,63
+Italy,Merlot,55,No,15.95,73
+Spain,Malbec,89,No,18.99,73
+Italy,Malbec,91,No,29.95,79
+Italy,Pinot Grigio,90,No,21.99,69
+Spain,Pinot Noir,22,No,19.99,23
+Spain,Cabernet Sauvignon,9,No,19.99,40
+Italy,Prosecco,79,No,12.95,164
+United States,Cava,89,No,31.95,42
+Spain,Pinot Grigio,85,No,16.95,72
+Argentina,Reisling,89,No,21.99,34
+Spain,Merlot,60,No,13.99,54
+United States,Malbec,84,No,17.95,55
+United States,Malbec,63,No,16.99,44
+Argentina,Cabernet Sauvignon,23,No,17.99,79
+Argentina,Cava,69,No,19.95,42
+Argentina,Pinot Grigio,90,No,23.99,63
+Argentina,Prosecco,34,No,17.99,48
+Austraila,Malbec,59,No,15.95,56
+United States,Pinot Grigio,6,No,12.99,128
+United States,Reisling,89,No,23.99,33
+Spain,Pinot Noir,76,No,12.95,109
+Argentina,Chardonnay,42,No,15.95,103
+Argentina,Prosecco,21,No,16.99,105
+Spain,Pinot Grigio,26,No,13.99,119
+Italy,Cabernet Sauvignon,90,No,12.99,85
+Austraila,Chardonnay,40,No,13.95,133
+Spain,Prosecco,90,No,19.99,113
+Italy,Chardonnay,44,No,17.99,36
+Argentina,Cabernet Sauvignon,89,No,19.95,36
+France,Chardonnay,43,No,16.95,45
+Spain,Cava,25,No,17.95,63
+France,Cabernet Sauvignon,97,No,19.95,26
+Argentina,Chardonnay,45,No,12.99,135
+Spain,Cava,43,No,14.99,123
+Italy,Pinot Grigio,49,No,11.95,137
+United States,Prosecco,33,Yes,11.99,141
+Italy,Reisling,75,No,11.99,59
+Italy,Pinot Noir,89,No,20.99,70
+France,Chardonnay,90,No,21.95,94
+Austraila,Pinot Noir,24,No,13.95,140
+France,Reisling,94,No,17.99,58
+Italy,Malbec,61,No,15.95,114
+France,Pinot Noir,46,No,18.99,51
+Spain,Reisling,66,No,17.99,16
+Spain,Prosecco,12,No,9.95,89
+Italy,Pinot Grigio,90,No,23.95,67
+Italy,Reisling,90,No,31.99,26
+Austraila,Pinot Noir,91,No,29.99,71
+Italy,Chardonnay,89,No,22.99,48
+Argentina,Prosecco,17,No,19.99,69
+United States,Cabernet Sauvignon,60,No,11.99,59
+Austraila,Pinot Grigio,61,No,12.95,124
+Austraila,Cabernet Sauvignon,82,No,16.99,36
+Spain,Cava,42,No,13.95,52
+United States,Cava,20,No,15.95,107
+Spain,Pinot Grigio,90,No,21.99,75
+Italy,Cava,90,No,21.95,62
+Italy,Reisling,81,No,13.99,81
+France,Malbec,24,No,20.95,39
+France,Merlot,29,No,15.99,53
+Austraila,Merlot,90,No,23.99,60
+Italy,Cabernet Sauvignon,69,No,12.95,121
+United States,Malbec,93,No,10.99,116
+Austraila,Cava,71,No,16.95,46
+Austraila,Cabernet Sauvignon,94,No,18.99,38
+Spain,Reisling,88,No,14.99,33
+Italy,Merlot,72,No,14.99,108
+Austraila,Merlot,90,No,14.95,80
+Argentina,Chardonnay,90,No,23.99,67
+Italy,Chardonnay,16,No,19.95,22
+Spain,Pinot Grigio,7,No,17.99,38
+United States,Pinot Noir,60,No,21.95,13
+Spain,Pinot Noir,59,No,13.95,88
+Austraila,Malbec,14,No,18.99,49
+Spain,Malbec,48,No,18.95,40
+Argentina,Malbec,89,No,16.95,96
+Italy,Merlot,42,No,15.99,84
+Spain,Prosecco,29,No,13.95,169
+Italy,Pinot Grigio,48,No,18.95,35
+United States,Malbec,39,No,17.95,68
+Italy,Reisling,90,No,25.95,40
+Austraila,Malbec,90,No,23.95,71
+Spain,Cava,76,No,10.99,101
+France,Pinot Grigio,34,No,14.95,77
+Argentina,Cava,2,No,8.95,80
+Argentina,Chardonnay,83,No,9.95,61
+Austraila,Pinot Noir,38,No,19.99,39
+Argentina,Cava,65,No,15.95,86
+France,Malbec,89,No,21.99,47
+United States,Reisling,16,No,16.99,29
+United States,Prosecco,89,No,22.99,78
+Italy,Pinot Grigio,35,No,10.95,141
+Italy,Pinot Grigio,89,No,16.95,77
+Austraila,Merlot,67,No,12.99,93
+Italy,Prosecco,75,No,12.99,162
+Austraila,Reisling,68,No,15.99,32
+United States,Chardonnay,77,No,18.99,64
+Spain,Cabernet Sauvignon,90,No,23.99,65
+Argentina,Pinot Noir,61,No,22.99,23
+United States,Chardonnay,51,No,15.99,95
+Italy,Prosecco,28,No,9.95,135
+Austraila,Cabernet Sauvignon,78,No,13.95,102
+Austraila,Cava,99,No,13.99,113
+Austraila,Reisling,20,No,13.99,67
+United States,Reisling,80,Yes,15.99,115
+Argentina,Chardonnay,2,No,14.95,147
+United States,Cabernet Sauvignon,23,No,10.95,72
+Italy,Prosecco,84,No,14.95,98
+Italy,Reisling,95,No,13.99,110
+United States,Merlot,19,No,18.99,60
+Spain,Chardonnay,89,No,25.95,40
+Italy,Cava,90,No,29.99,50
+Italy,Pinot Noir,63,No,27.95,5
+Italy,Malbec,73,No,13.95,81
+France,Prosecco,89,No,24.95,73
+Italy,Cabernet Sauvignon,19,No,11.95,83
+Austraila,Cava,8,No,13.95,135
+United States,Merlot,89,No,20.99,64
+Argentina,Pinot Noir,83,No,19.99,55
+France,Merlot,17,No,19.95,50
+Spain,Cava,79,No,20.99,36
+Italy,Reisling,45,No,13.99,126
+Spain,Malbec,41,No,14.95,117
+France,Pinot Grigio,79,No,13.99,104
+France,Pinot Noir,33,No,22.99,24
+Italy,Pinot Noir,17,No,11.99,132
+France,Cava,89,No,25.95,29
+Austraila,Merlot,6,No,13.95,52
+France,Cabernet Sauvignon,31,No,12.99,109
+Italy,Pinot Grigio,89,No,17.95,62
+France,Malbec,16,No,17.95,45
+Italy,Merlot,43,No,13.95,132
+Italy,Prosecco,79,No,14.99,157
+Austraila,Pinot Grigio,96,No,17.95,52
+United States,Malbec,48,Yes,15.95,150
+France,Merlot,90,No,25.95,54
+Austraila,Reisling,35,No,18.99,26
+United States,Pinot Noir,90,No,17.99,49
+France,Cabernet Sauvignon,39,No,16.95,38
+Italy,Pinot Grigio,32,No,13.95,74
+Italy,Merlot,90,No,12.95,122
+United States,Chardonnay,24,No,16.95,84
+Spain,Merlot,60,No,11.99,94
+Austraila,Cabernet Sauvignon,72,No,14.95,83
+United States,Malbec,39,No,20.99,26
+Italy,Cava,85,No,16.99,49
+Austraila,Chardonnay,90,No,22.95,60
+Spain,Merlot,58,No,9.99,100
+France,Malbec,68,No,21.95,37
+Spain,Merlot,23,No,10.95,50
+Spain,Malbec,60,No,6.95,130
+Spain,Cava,7,No,13.99,80
+Italy,Cava,17,No,16.95,47
+France,Malbec,89,No,19.99,79
+Italy,Malbec,53,No,10.99,55
+Argentina,Cabernet Sauvignon,46,No,12.99,81
+United States,Cabernet Sauvignon,90,No,28.95,51
+Austraila,Reisling,36,No,19.95,10
+Italy,Prosecco,92,No,28.99,107
+Spain,Pinot Grigio,50,No,11.95,101
+United States,Reisling,14,No,15.99,64
+United States,Chardonnay,90,No,24.99,54
+Argentina,Pinot Noir,61,No,9.95,140
+Italy,Merlot,45,No,12.95,70
+Italy,Merlot,66,No,15.99,104
+Austraila,Pinot Grigio,90,No,21.95,60
+Austraila,Pinot Grigio,45,No,17.99,65
+United States,Pinot Grigio,38,No,21.95,29
+Austraila,Prosecco,93,No,14.95,110
+United States,Merlot,59,No,12.95,101
+Spain,Merlot,90,No,21.99,72
+Argentina,Merlot,59,No,11.99,136
+Argentina,Merlot,86,No,17.99,43
+Argentina,Prosecco,96,No,11.95,128
+United States,Prosecco,13,No,19.99,53
+Austraila,Pinot Noir,89,No,26.95,42
+France,Reisling,90,No,27.95,32
+France,Malbec,83,No,16.95,43
+Spain,Cabernet Sauvignon,36,No,12.95,112
+Austraila,Reisling,81,No,18.99,46
+Austraila,Pinot Noir,53,No,18.99,67
+United States,Merlot,81,No,19.99,52
+Austraila,Merlot,22,No,10.99,77
+United States,Merlot,74,No,15.95,95
+Italy,Malbec,24,No,11.99,55
+France,Malbec,76,No,17.95,75
+Argentina,Malbec,38,No,15.95,80
+Austraila,Malbec,26,No,9.95,83
+Spain,Chardonnay,91,No,12.95,149
+France,Chardonnay,64,No,17.95,35
+Austraila,Cava,92,No,12.95,126
+Spain,Pinot Grigio,33,No,12.99,86
+Spain,Prosecco,95,No,18.99,53
+Austraila,Cava,89,No,13.99,93
+United States,Pinot Grigio,89,No,25.99,36
+Spain,Pinot Grigio,14,No,12.95,70
+France,Merlot,76,No,13.95,52
+United States,Chardonnay,91,No,28.95,74
+United States,Merlot,74,No,10.99,122
+France,Reisling,89,No,14.99,142
+Italy,Reisling,91,No,16.95,65
+Spain,Malbec,90,No,25.99,64
+United States,Malbec,49,No,17.95,78
+Argentina,Cabernet Sauvignon,29,No,14.99,109
+Austraila,Chardonnay,46,No,13.99,73
+France,Cabernet Sauvignon,42,No,16.95,98
+Argentina,Merlot,40,No,7.99,132
+Austraila,Pinot Grigio,67,No,12.95,53
+Austraila,Malbec,90,No,25.99,68
+United States,Prosecco,75,No,15.95,141
+Spain,Malbec,20,No,13.99,92
+United States,Pinot Noir,47,No,16.99,91
+Argentina,Merlot,48,No,10.99,120
+United States,Pinot Grigio,37,No,16.95,75
+Italy,Pinot Noir,23,No,18.99,45
+United States,Merlot,4,No,14.95,122
+Italy,Pinot Grigio,11,No,13.95,148
+Argentina,Pinot Noir,89,No,27.99,43
+Spain,Chardonnay,78,No,15.99,108
+Austraila,Pinot Grigio,56,No,12.95,89
+Argentina,Chardonnay,57,No,13.99,139
+Italy,Reisling,57,No,19.99,22
+France,Malbec,35,No,12.99,118
+France,Pinot Noir,84,No,17.99,74
+Austraila,Pinot Noir,55,No,16.99,48
+Italy,Malbec,81,No,20.95,41
+Spain,Cabernet Sauvignon,36,No,14.99,52
+Argentina,Chardonnay,2,No,14.99,141
+Austraila,Reisling,26,No,13.99,100
+United States,Prosecco,10,No,15.99,121
+Italy,Merlot,29,No,15.99,78
+Argentina,Pinot Noir,22,No,14.99,130
+Spain,Prosecco,89,No,20.95,87
+Italy,Chardonnay,49,No,11.95,75
+Austraila,Pinot Grigio,90,No,23.95,71
+Italy,Cabernet Sauvignon,29,No,11.95,120
+United States,Cabernet Sauvignon,28,No,18.99,31
+United States,Cabernet Sauvignon,68,No,17.99,45
+Spain,Pinot Grigio,37,No,22.95,22
+France,Cava,61,No,13.95,58
+France,Merlot,31,No,9.95,88
+Austraila,Merlot,92,No,13.95,59
+Spain,Pinot Grigio,67,No,17.95,70
+France,Pinot Noir,91,No,16.95,76
+Austraila,Pinot Grigio,92,No,17.99,54
+Spain,Cava,89,No,17.95,73
+United States,Reisling,89,No,23.95,21
+France,Cava,3,No,20.95,20
+Italy,Pinot Grigio,29,No,10.99,137
+United States,Malbec,63,No,15.95,42
+Spain,Cabernet Sauvignon,60,No,19.99,54
+Italy,Cava,20,No,17.95,32
+United States,Pinot Grigio,11,No,17.99,68
+United States,Malbec,98,No,21.99,25
+Italy,Cava,10,No,17.99,53
+Austraila,Merlot,30,No,16.95,82
+Austraila,Merlot,52,No,9.95,144
+Austraila,Chardonnay,43,No,15.99,120
+Spain,Prosecco,29,No,14.99,141
+France,Cabernet Sauvignon,47,No,10.95,129
+France,Pinot Noir,88,No,18.95,62
+France,Cava,90,No,27.99,52
+United States,Pinot Noir,90,Yes,30.99,89
+Austraila,Pinot Noir,86,No,11.95,52
+France,Prosecco,89,No,22.95,73
+Austraila,Merlot,70,No,15.95,45
+Spain,Pinot Grigio,80,No,13.99,113
+France,Prosecco,89,No,19.95,76
+Austraila,Pinot Noir,7,No,17.95,37
+Spain,Merlot,87,No,14.95,113
+Austraila,Malbec,71,No,13.95,116
+Austraila,Merlot,58,No,7.99,87
+France,Merlot,15,No,14.95,93
+Austraila,Pinot Noir,89,No,18.95,46
+Austraila,Prosecco,18,No,20.95,41
+Argentina,Pinot Grigio,58,No,19.99,45
+France,Pinot Grigio,73,No,15.99,41
+France,Cava,93,No,15.95,93
+Argentina,Pinot Grigio,89,No,17.95,62
+France,Merlot,45,No,13.99,124
+United States,Pinot Noir,77,No,20.95,44
+Austraila,Pinot Grigio,82,No,13.99,144
+United States,Pinot Grigio,90,No,19.99,74
+Italy,Cabernet Sauvignon,90,No,22.95,73
+Argentina,Chardonnay,59,No,12.95,56
+Spain,Pinot Grigio,66,No,14.99,106
+Argentina,Chardonnay,12,No,10.99,141
+Spain,Cabernet Sauvignon,68,No,16.95,65
+France,Malbec,82,No,17.95,29
+Spain,Reisling,89,No,15.95,50
+France,Merlot,23,No,22.95,14
+France,Pinot Noir,24,No,26.99,12
+Austraila,Pinot Noir,10,No,22.99,13
+United States,Chardonnay,48,No,18.99,42
+United States,Malbec,90,No,23.95,70
+France,Prosecco,70,No,21.95,34
+France,Pinot Grigio,75,No,18.95,29
+France,Merlot,89,No,28.99,46
+Austraila,Pinot Noir,15,No,22.99,11
+France,Pinot Grigio,40,No,19.95,43
+Spain,Chardonnay,33,No,17.95,32
+Argentina,Reisling,89,No,20.95,54
+Austraila,Cava,90,No,19.95,81
+Argentina,Pinot Grigio,98,No,15.95,46
+Austraila,Pinot Grigio,27,No,15.95,115
+Argentina,Prosecco,36,No,11.95,82
+France,Pinot Noir,90,No,27.99,59
+Spain,Merlot,21,No,12.99,134
+Spain,Chardonnay,89,No,15.95,76
+Italy,Cabernet Sauvignon,10,No,16.95,101
+Spain,Chardonnay,28,No,12.99,68
+Argentina,Malbec,90,No,30.99,54
+France,Cabernet Sauvignon,96,No,15.95,73
+Argentina,Cabernet Sauvignon,71,No,15.99,93
+Spain,Cava,35,No,14.99,107
+Spain,Malbec,31,No,15.99,55
+Italy,Pinot Noir,94,No,15.95,47
+Italy,Prosecco,53,No,16.99,70
+United States,Cabernet Sauvignon,3,No,15.95,77
+United States,Cava,30,Yes,16.95,72
+Spain,Merlot,19,No,17.99,53
+Spain,Pinot Noir,90,No,24.95,60
+Italy,Malbec,80,No,18.95,55
+Spain,Reisling,52,No,10.95,123
+Spain,Merlot,56,No,11.99,145
+Austraila,Malbec,5,No,10.95,133
+Argentina,Reisling,39,No,9.95,61
+Italy,Reisling,73,No,15.95,31
+United States,Cava,38,No,12.99,71
+Italy,Reisling,90,No,25.95,47
+Argentina,Malbec,31,No,16.99,53
+Italy,Malbec,90,No,22.99,70
+Austraila,Pinot Grigio,83,No,13.99,53
+United States,Chardonnay,62,No,15.95,83
+Argentina,Merlot,95,No,10.95,126
+France,Chardonnay,89,No,16.95,99
+Austraila,Chardonnay,90,No,29.99,58
+France,Pinot Grigio,43,No,19.95,32
+United States,Malbec,42,No,14.95,98
+Austraila,Malbec,35,No,13.95,60
+France,Cava,81,No,14.95,74
+Spain,Prosecco,72,No,17.99,75
+France,Reisling,98,No,16.99,43
+Spain,Chardonnay,43,No,17.99,57
+France,Prosecco,66,No,17.99,82
+Italy,Prosecco,25,No,14.99,108
+Austraila,Prosecco,69,No,14.95,144
+Austraila,Prosecco,35,No,15.99,116
+Austraila,Malbec,89,No,22.99,44
+United States,Prosecco,27,No,19.95,46
+Spain,Pinot Grigio,89,No,18.95,77
+Spain,Pinot Grigio,61,No,17.95,46
+Italy,Cava,91,No,24.95,83
+Italy,Cava,84,No,13.95,59
+United States,Chardonnay,89,No,23.95,47
+United States,Chardonnay,73,No,21.95,36
+France,Cabernet Sauvignon,40,No,14.99,99
+Spain,Pinot Grigio,41,No,16.99,84
+United States,Merlot,24,No,21.95,27
+United States,Merlot,89,No,23.95,55
+United States,Reisling,1,No,16.99,78
+Argentina,Cabernet Sauvignon,90,No,25.99,60
+Spain,Cabernet Sauvignon,89,No,17.99,47
+Spain,Merlot,89,No,13.99,159
+Argentina,Prosecco,90,No,23.95,91
+Argentina,Cabernet Sauvignon,69,No,12.99,53
+United States,Pinot Noir,89,No,31.95,32
+Spain,Merlot,47,No,6.99,59
+Austraila,Pinot Grigio,100,No,12.99,72
+Austraila,Prosecco,18,No,14.95,98
+France,Prosecco,39,No,22.95,45
+United States,Chardonnay,76,No,21.95,19
+France,Cabernet Sauvignon,57,No,17.99,57
+United States,Pinot Noir,89,No,20.95,49
+Italy,Pinot Noir,71,No,24.99,16
+Austraila,Prosecco,90,No,24.99,93
+France,Prosecco,80,No,13.95,157
+Italy,Merlot,90,No,10.95,120
+Austraila,Pinot Grigio,87,No,15.95,79
+Austraila,Prosecco,50,No,17.95,56
+Austraila,Merlot,61,No,10.99,120
+Argentina,Pinot Grigio,86,No,18.99,51
+Italy,Reisling,94,No,13.95,55
+France,Cava,89,No,23.99,33
+France,Cabernet Sauvignon,1,No,13.99,95
+France,Prosecco,83,No,16.95,120
+France,Pinot Grigio,3,No,18.95,24
+France,Pinot Noir,19,No,19.95,23
+Austraila,Cabernet Sauvignon,89,No,21.99,63
+United States,Reisling,90,No,34.95,25
+Spain,Pinot Noir,35,No,20.95,29
+Italy,Reisling,95,No,12.95,33
+United States,Reisling,94,No,16.99,23
+Austraila,Merlot,89,No,16.95,96
+Argentina,Prosecco,18,No,19.95,48
+France,Malbec,75,No,21.99,18
+France,Chardonnay,98,No,12.99,99
+Austraila,Pinot Grigio,54,No,16.95,92
+Italy,Prosecco,99,No,13.95,144
+Austraila,Cabernet Sauvignon,51,No,15.99,75
+Argentina,Malbec,46,No,16.99,72
+Italy,Reisling,69,No,16.95,75
+France,Pinot Grigio,93,No,18.99,44
+Italy,Chardonnay,42,No,20.95,41
+France,Chardonnay,43,No,15.95,61
+Argentina,Pinot Grigio,78,No,12.99,149
+Argentina,Pinot Noir,100,No,14.99,62
+United States,Cabernet Sauvignon,83,No,20.95,34
+France,Reisling,9,No,19.95,4
+United States,Malbec,40,No,11.99,85
+Austraila,Cava,91,No,15.99,80
+Argentina,Prosecco,67,No,14.99,118
+United States,Cabernet Sauvignon,90,No,26.99,49
+Argentina,Cava,100,No,14.95,118
+Austraila,Cava,73,No,13.95,53
+France,Prosecco,9,No,13.95,118
+United States,Malbec,27,No,19.95,20
+Austraila,Chardonnay,38,No,13.99,146
+United States,Cava,57,Yes,12.95,176
+Spain,Prosecco,90,No,13.95,110
+Argentina,Malbec,90,No,22.99,69
+France,Reisling,85,No,14.99,54
+Spain,Malbec,44,No,12.99,68
+Austraila,Prosecco,1,No,15.95,62
+Spain,Prosecco,28,No,16.99,103
+Spain,Merlot,82,No,8.95,120
+Austraila,Cabernet Sauvignon,73,No,14.95,51
+Italy,Pinot Grigio,14,No,18.99,27
+Spain,Cava,89,No,12.99,159
+United States,Chardonnay,78,No,14.95,57
+France,Cabernet Sauvignon,79,No,17.99,31
+France,Pinot Grigio,95,No,21.99,34
+United States,Prosecco,94,No,18.99,52
+Spain,Cabernet Sauvignon,90,No,21.99,82
+United States,Cava,32,No,18.99,61
+United States,Cabernet Sauvignon,89,No,21.99,36
+Austraila,Cava,69,No,15.99,67
+Argentina,Malbec,90,No,16.95,79
+Austraila,Pinot Noir,65,No,16.95,46
+Italy,Malbec,29,No,14.99,92
+France,Merlot,9,No,18.95,54
+Italy,Malbec,58,No,14.99,102
+Austraila,Cava,34,No,14.95,66
+France,Pinot Noir,31,No,16.95,39
+Argentina,Merlot,1,No,11.99,71
+France,Chardonnay,62,No,17.95,44
+United States,Prosecco,27,Yes,28.95,54
+France,Pinot Grigio,90,No,22.99,78
+Spain,Reisling,23,No,19.99,13
+France,Merlot,90,No,18.99,31
+Spain,Prosecco,24,No,17.99,68
+United States,Malbec,89,No,25.99,49
+Argentina,Pinot Grigio,77,No,16.95,87
+Argentina,Malbec,14,No,18.99,23
+Italy,Cabernet Sauvignon,32,No,11.99,142
+France,Pinot Noir,14,No,18.99,37
+France,Pinot Grigio,89,No,15.99,96
+Argentina,Chardonnay,89,No,23.95,39
+United States,Pinot Noir,38,No,23.99,17
+United States,Pinot Grigio,81,No,14.95,132
+United States,Merlot,89,No,16.95,77
+Italy,Reisling,52,No,16.95,48
+United States,Prosecco,94,No,14.95,95
+Austraila,Pinot Noir,14,No,18.99,54
+France,Pinot Noir,78,No,18.99,23
+Austraila,Reisling,59,No,13.99,97
+Italy,Pinot Noir,10,No,17.99,34
+United States,Chardonnay,69,No,22.95,13
+Spain,Malbec,30,No,10.95,66
+Argentina,Pinot Grigio,46,No,10.99,112
+Austraila,Reisling,21,No,13.95,126
+Italy,Cabernet Sauvignon,65,No,9.99,105
+France,Chardonnay,3,No,21.95,31
+Argentina,Pinot Noir,90,No,28.99,57
+France,Cabernet Sauvignon,67,No,18.99,66
+Austraila,Malbec,89,No,22.95,52
+United States,Cabernet Sauvignon,4,No,16.99,78
+United States,Chardonnay,39,No,22.95,18
+France,Prosecco,24,No,15.99,127
+Spain,Prosecco,90,No,18.95,103
+Austraila,Reisling,90,No,25.95,49
+Italy,Malbec,89,No,22.95,50
+Italy,Pinot Noir,13,No,16.95,36
+Italy,Malbec,71,No,11.95,146
+France,Merlot,35,No,16.99,54
+Austraila,Pinot Grigio,90,No,24.95,61
+France,Reisling,14,No,15.99,40
+Italy,Pinot Grigio,56,No,8.95,126
+Austraila,Cabernet Sauvignon,65,No,13.99,83
+Italy,Pinot Noir,76,No,16.99,86
+France,Prosecco,34,No,20.95,59
+Austraila,Merlot,90,No,27.99,53
+Spain,Prosecco,10,No,15.99,127
+Austraila,Malbec,32,No,10.95,111
+Spain,Prosecco,90,No,25.99,93
+France,Malbec,19,No,16.95,54
+Spain,Merlot,25,No,9.99,105
+Argentina,Pinot Grigio,65,No,22.95,13
+Argentina,Reisling,8,No,15.95,47
+United States,Merlot,89,No,25.95,41
+United States,Reisling,86,No,17.95,25
+United States,Reisling,74,No,18.99,24
+France,Pinot Grigio,90,No,25.95,61
+Spain,Cava,22,No,20.99,16
+France,Pinot Grigio,89,No,21.95,69
+Argentina,Pinot Grigio,30,No,16.95,54
+Italy,Malbec,89,No,18.99,48
+Argentina,Chardonnay,30,No,15.99,55
+Italy,Merlot,72,No,12.99,51
+Austraila,Prosecco,25,No,17.95,55
+Italy,Pinot Noir,52,No,16.99,56
+Argentina,Malbec,63,No,18.95,65
+Spain,Reisling,6,No,15.99,23
+United States,Reisling,90,No,22.99,52
+Italy,Prosecco,56,No,13.95,165
+Spain,Cabernet Sauvignon,39,No,18.95,52
+United States,Prosecco,67,No,14.95,97
+Italy,Merlot,89,No,23.99,61
+Austraila,Pinot Grigio,89,No,19.99,65
+Argentina,Malbec,4,No,16.99,88
+Austraila,Pinot Grigio,56,No,18.95,25
+Italy,Prosecco,89,No,24.95,72
+Italy,Cabernet Sauvignon,87,No,15.95,112
+Argentina,Merlot,82,No,17.99,35
+France,Prosecco,50,No,20.95,56
+Argentina,Cava,89,No,26.99,38
+Italy,Prosecco,35,No,18.95,47
+United States,Cabernet Sauvignon,13,No,16.95,100
+Austraila,Cava,17,No,17.95,74
+Argentina,Pinot Grigio,89,No,20.99,46
+Austraila,Prosecco,14,No,13.99,119
+Italy,Malbec,4,No,15.99,71
+France,Reisling,37,No,21.95,0
+Argentina,Chardonnay,72,No,12.99,80
+France,Cava,90,No,26.99,57
+Austraila,Malbec,90,No,27.99,48
+Spain,Reisling,89,No,20.99,51
+Argentina,Cabernet Sauvignon,23,No,20.99,42
+United States,Chardonnay,32,No,19.99,49
+Spain,Chardonnay,79,No,13.99,96
+Austraila,Reisling,4,No,16.95,30
+Austraila,Reisling,34,No,13.99,107
+Spain,Malbec,93,No,13.95,134
+Argentina,Pinot Noir,96,No,12.95,142
+United States,Reisling,34,No,17.95,11
+France,Pinot Noir,73,No,20.99,28
+Argentina,Pinot Grigio,66,No,18.95,38
+Spain,Reisling,46,No,17.95,15
+Austraila,Malbec,9,No,13.99,79
+United States,Cava,42,No,18.99,56
+United States,Pinot Noir,90,No,24.99,18
+Italy,Chardonnay,1,No,17.95,64
+Spain,Malbec,43,No,11.99,137
+Argentina,Reisling,90,No,16.99,91
+United States,Pinot Grigio,90,No,24.99,53
+Spain,Cava,35,No,18.99,30
+Spain,Prosecco,41,No,19.99,43
+Italy,Malbec,11,No,16.95,72
+Spain,Malbec,37,No,22.99,29
+United States,Cabernet Sauvignon,78,No,14.95,149
+France,Chardonnay,78,No,11.99,76
+Spain,Reisling,91,No,26.99,53
+Argentina,Reisling,11,No,12.99,55
+France,Malbec,90,No,25.99,64
+Spain,Chardonnay,23,No,14.95,115
+Italy,Pinot Noir,86,No,15.95,117
+Spain,Prosecco,61,No,17.95,63
+Italy,Prosecco,90,No,30.95,70
+France,Chardonnay,87,No,20.99,35
+United States,Pinot Noir,89,Yes,18.95,113
+Argentina,Chardonnay,10,No,18.95,53
+Austraila,Pinot Noir,36,No,20.99,43
+Italy,Pinot Noir,37,No,14.95,139
+France,Pinot Noir,23,No,18.99,49
+Argentina,Pinot Grigio,56,No,15.95,123
+Argentina,Cabernet Sauvignon,100,No,10.99,92
+Spain,Cava,14,No,16.95,47
+United States,Cava,41,No,19.99,46
+Austraila,Merlot,73,No,13.95,139
+Argentina,Chardonnay,13,No,17.99,64
+United States,Reisling,32,No,15.99,77
+Argentina,Cava,91,No,24.99,86
+Spain,Chardonnay,58,No,16.99,94
+France,Cava,56,No,19.95,43
+United States,Cabernet Sauvignon,28,Yes,14.95,125
+Austraila,Pinot Noir,68,No,19.95,41
+France,Merlot,58,No,18.95,43
+Italy,Prosecco,15,No,13.99,109
+Spain,Pinot Noir,79,No,17.99,78
+Argentina,Cava,64,No,11.99,114
+United States,Pinot Noir,4,No,21.95,27
+France,Cava,21,No,25.99,15
+United States,Reisling,23,Yes,20.95,52
+France,Reisling,91,No,30.95,48
+United States,Prosecco,81,No,14.95,94
+United States,Merlot,34,No,7.99,50
+Italy,Malbec,10,No,19.99,37
+Italy,Pinot Grigio,14,No,15.95,93
+Spain,Cava,28,No,16.99,95
+France,Pinot Noir,24,No,21.95,32
+France,Cava,84,No,19.99,37
+France,Cabernet Sauvignon,89,No,21.95,50
+Spain,Merlot,62,No,14.95,119
+Italy,Pinot Noir,71,No,19.99,29
+Austraila,Pinot Noir,21,No,21.95,17
+United States,Malbec,81,No,15.99,82
+Italy,Reisling,96,No,10.95,47
+France,Cabernet Sauvignon,60,No,18.99,58
+Austraila,Pinot Noir,75,No,22.95,23
+Austraila,Pinot Noir,22,No,15.95,90
+France,Cabernet Sauvignon,11,No,18.99,59
+Italy,Cava,33,No,18.99,41
+Italy,Malbec,77,No,15.95,82
+Spain,Pinot Noir,70,No,21.95,32
+Italy,Cava,61,No,16.99,81
+Italy,Reisling,18,No,16.95,26
+Argentina,Cava,95,No,15.99,88
+Italy,Prosecco,2,No,17.95,96
+United States,Merlot,56,No,16.99,56
+Austraila,Pinot Grigio,89,No,23.95,49
+Argentina,Cava,62,No,15.95,48
+Austraila,Pinot Noir,91,No,28.99,74
+Italy,Chardonnay,29,No,17.99,56
+Spain,Chardonnay,81,No,16.99,85
+France,Reisling,19,No,12.95,86
+Italy,Pinot Noir,53,No,24.95,13
+France,Malbec,21,No,22.95,13
+Argentina,Cava,57,No,14.95,73
+Italy,Cava,38,No,12.99,129
+Spain,Prosecco,44,No,10.95,130
+Spain,Merlot,56,No,15.95,119
+United States,Reisling,9,No,18.95,44
+Spain,Cava,61,No,14.95,53
+Italy,Merlot,72,No,11.99,108
+Argentina,Malbec,10,No,11.95,144
+Spain,Reisling,40,No,11.99,117
+France,Merlot,89,No,23.99,55
+Austraila,Cabernet Sauvignon,72,No,11.99,79
+Austraila,Pinot Grigio,75,No,15.95,71
+France,Pinot Noir,61,No,22.95,17
+Spain,Reisling,89,No,18.99,34
+Argentina,Malbec,90,No,28.95,57
+Argentina,Prosecco,60,No,12.99,91
+United States,Merlot,41,No,14.99,129
+France,Cava,50,No,23.95,12
+Argentina,Pinot Grigio,90,No,21.95,65
+Italy,Chardonnay,84,No,16.99,72
+United States,Merlot,90,No,22.99,83
+Austraila,Reisling,7,No,11.95,67
+Spain,Malbec,84,No,15.99,47
+Argentina,Pinot Noir,11,No,15.95,80
+Argentina,Cava,84,No,12.95,113
+United States,Reisling,49,Yes,17.95,88
+Italy,Reisling,23,No,18.95,9
+Argentina,Merlot,92,No,28.95,91
+Spain,Merlot,25,No,15.95,94
+Spain,Reisling,2,No,11.99,37
+Spain,Cava,77,No,15.99,62
+Argentina,Cava,27,No,15.95,56
+United States,Reisling,89,No,24.99,24
+France,Pinot Grigio,95,No,17.95,48
+Austraila,Malbec,15,No,15.99,91
+United States,Reisling,89,No,25.95,19
+France,Cabernet Sauvignon,9,No,17.99,69
+Argentina,Pinot Grigio,90,No,26.95,63
+United States,Merlot,89,No,24.95,38
+Argentina,Pinot Noir,100,No,22.95,14
+France,Reisling,84,No,14.95,97
+Italy,Chardonnay,70,No,16.99,96
+France,Prosecco,91,No,20.95,64
+Austraila,Malbec,78,No,13.99,117
+France,Reisling,4,No,20.95,8
+France,Cava,69,No,20.99,16
+United States,Merlot,89,No,18.99,57
+United States,Pinot Grigio,53,No,17.99,74
+Austraila,Reisling,89,No,14.99,159
+Argentina,Reisling,25,No,10.99,71
+Spain,Chardonnay,6,No,9.99,131
+France,Reisling,65,No,12.99,117
+France,Chardonnay,13,No,17.95,72
+Italy,Chardonnay,90,No,22.95,74
+Argentina,Reisling,83,No,18.95,31
+Spain,Cava,42,No,14.99,110
+United States,Cava,94,No,18.95,35
+Austraila,Cabernet Sauvignon,90,No,33.99,45
+Austraila,Chardonnay,90,No,25.95,75
+Italy,Merlot,90,No,11.99,133
+France,Merlot,89,No,28.95,32
+United States,Cabernet Sauvignon,39,No,20.95,21
+United States,Reisling,95,No,17.99,49
+Austraila,Pinot Noir,4,No,11.95,143
+Spain,Malbec,4,No,10.95,77
+France,Malbec,26,No,22.95,29
+Spain,Pinot Noir,78,No,18.95,65
+Italy,Malbec,32,No,17.99,49
+Spain,Chardonnay,89,No,18.95,67
+Italy,Cava,24,No,14.95,93
+Austraila,Merlot,36,No,10.95,51
+France,Cabernet Sauvignon,88,No,15.95,86
+Spain,Pinot Grigio,63,No,12.99,81
+Austraila,Merlot,86,No,19.95,39
+Argentina,Cabernet Sauvignon,40,No,20.95,45
+Italy,Cava,90,No,20.95,80
+Spain,Reisling,93,No,12.95,127
+Argentina,Cabernet Sauvignon,25,No,13.95,65
+Spain,Merlot,20,No,15.95,56
+Italy,Chardonnay,89,No,18.95,86
+Austraila,Chardonnay,89,No,20.99,62
+Austraila,Cava,89,No,22.99,61
+Austraila,Merlot,19,No,13.95,104
+Spain,Cava,47,No,15.99,73
+Argentina,Malbec,20,No,15.95,117
+France,Reisling,95,No,20.95,9
+Spain,Reisling,17,No,8.99,71
+United States,Cabernet Sauvignon,85,No,21.99,37
+Austraila,Pinot Noir,60,No,11.95,69
+United States,Pinot Grigio,95,No,12.99,121
+Italy,Merlot,50,No,9.95,67
+United States,Pinot Grigio,39,No,15.95,104
+Italy,Pinot Noir,90,No,16.99,82
+United States,Merlot,48,No,13.99,94
+Italy,Pinot Grigio,89,No,18.99,61
+France,Merlot,57,No,11.95,67
+France,Malbec,83,No,15.99,83
+Argentina,Malbec,67,No,14.99,106
+United States,Merlot,75,No,16.95,61
+Austraila,Pinot Noir,13,No,23.99,13
+Argentina,Pinot Noir,89,No,22.99,47
+Austraila,Prosecco,91,No,27.95,103
+United States,Merlot,13,Yes,19.95,56
+Argentina,Pinot Grigio,82,No,18.99,38
+United States,Cava,89,No,24.99,31
+United States,Prosecco,55,No,18.95,58
+Italy,Reisling,30,No,19.95,6
+Argentina,Merlot,40,No,13.99,123
+Argentina,Malbec,62,No,14.99,94
+Argentina,Reisling,53,No,13.99,44
+Spain,Cabernet Sauvignon,46,No,15.99,102
+United States,Cabernet Sauvignon,15,No,17.99,48
+France,Malbec,21,No,22.95,30
+Argentina,Merlot,63,No,11.99,145
+Spain,Merlot,80,No,12.99,57
+France,Pinot Grigio,68,No,19.95,23
+Austraila,Prosecco,90,No,20.95,88
+United States,Reisling,89,Yes,16.95,120
+France,Merlot,73,No,18.95,25
+Argentina,Cabernet Sauvignon,96,No,13.99,128
+France,Reisling,89,No,21.95,43
+United States,Malbec,91,Yes,14.99,112
+Austraila,Cava,90,No,23.95,81
+Austraila,Cabernet Sauvignon,87,No,17.95,29
+Austraila,Pinot Grigio,85,No,11.95,124
+Argentina,Cava,34,No,15.99,102
+Spain,Merlot,7,No,10.99,111
+France,Prosecco,22,No,16.99,79
+Argentina,Malbec,48,No,16.99,71
+Italy,Merlot,20,No,13.95,74
+Spain,Pinot Noir,39,No,21.99,19
+Argentina,Prosecco,81,No,18.99,84
+Austraila,Malbec,78,No,13.99,142
+Italy,Pinot Grigio,89,No,20.99,70
+Spain,Chardonnay,25,No,14.99,62
+Austraila,Chardonnay,45,No,14.95,66
+Spain,Prosecco,15,No,14.95,146
+Italy,Prosecco,9,No,16.95,85
+Argentina,Malbec,89,No,20.95,63
+France,Merlot,22,No,20.95,30
+Italy,Prosecco,96,No,13.95,107
+Argentina,Pinot Noir,81,No,17.95,48
+United States,Merlot,91,No,10.99,75
+Argentina,Pinot Grigio,76,No,17.99,29
+Spain,Merlot,1,No,11.99,60
+United States,Merlot,89,No,19.99,41
+Argentina,Pinot Grigio,89,No,17.95,82
+Argentina,Pinot Grigio,82,No,14.95,82
+Spain,Cava,53,No,17.99,40
+United States,Chardonnay,10,No,14.99,120
+United States,Cava,19,No,19.99,22
+Spain,Cava,29,No,14.99,93
+Austraila,Malbec,12,No,16.95,43
+France,Cava,52,No,12.99,92
+Argentina,Pinot Grigio,10,No,9.99,141
+Austraila,Reisling,62,No,15.95,66
+Argentina,Cava,11,No,9.99,85
+Argentina,Chardonnay,20,No,11.99,100
+France,Pinot Grigio,89,No,21.99,36
+Argentina,Cabernet Sauvignon,79,No,13.99,109
+France,Pinot Grigio,75,No,18.95,25
+United States,Pinot Noir,97,No,18.95,33
+Italy,Pinot Noir,10,No,14.95,137
+Italy,Pinot Grigio,97,No,13.95,107
+Austraila,Reisling,95,No,16.95,22
+Spain,Cava,28,No,15.99,64
+Argentina,Pinot Noir,89,No,17.99,75
+Argentina,Chardonnay,90,No,20.99,80
+Italy,Prosecco,22,No,13.95,91
+Italy,Cabernet Sauvignon,20,No,12.95,109
+Italy,Cava,91,No,26.99,81
+France,Chardonnay,77,No,17.95,65
+Spain,Cava,54,No,17.99,60
+Austraila,Merlot,13,No,17.99,81
+Austraila,Pinot Noir,37,No,22.99,14
+Austraila,Cava,56,No,18.95,50
+Austraila,Pinot Noir,15,No,21.99,15
+Argentina,Pinot Grigio,47,No,13.95,130
+United States,Reisling,6,No,17.99,10
+Austraila,Merlot,93,No,9.95,90
+France,Cava,90,No,26.95,56
+United States,Cabernet Sauvignon,66,No,12.95,83
+Argentina,Malbec,71,No,15.95,71
+Argentina,Cabernet Sauvignon,17,No,7.99,145
+United States,Pinot Grigio,47,No,19.95,54
+United States,Merlot,90,No,30.95,57
+Argentina,Pinot Noir,58,No,15.95,45
+United States,Pinot Grigio,90,No,20.99,87
+Argentina,Pinot Noir,4,No,18.99,32
+Austraila,Reisling,89,No,19.95,45
+Spain,Pinot Noir,79,No,19.95,52
+Italy,Prosecco,94,No,12.95,163
+United States,Reisling,53,No,15.99,71
+France,Pinot Grigio,65,No,14.95,92
+France,Cava,90,No,27.99,64
+United States,Cava,55,No,15.99,84
+United States,Malbec,69,No,15.95,64
+France,Prosecco,78,No,13.95,162
+Argentina,Reisling,77,No,12.95,125
+Spain,Chardonnay,3,No,13.95,77
+Italy,Reisling,38,No,19.95,5
+France,Malbec,93,No,17.95,80
+France,Pinot Grigio,91,No,22.95,81
+Argentina,Cabernet Sauvignon,65,No,12.95,101
+Italy,Merlot,9,No,17.99,42
+Italy,Prosecco,91,No,27.95,90
+Italy,Pinot Grigio,90,No,25.99,56
+Spain,Malbec,49,No,15.95,50
+France,Pinot Noir,75,No,19.99,37
+Italy,Malbec,95,No,16.95,37
+France,Chardonnay,2,No,21.99,32
+Austraila,Cava,89,No,21.95,41
+Spain,Reisling,89,No,24.99,24
+Italy,Reisling,90,No,25.99,34
+France,Malbec,32,No,17.99,36
+Argentina,Malbec,93,No,12.95,61
+France,Prosecco,40,No,20.99,57
+France,Cava,4,No,18.99,25
+France,Chardonnay,78,No,22.95,17
+Spain,Prosecco,9,No,14.95,95
+Italy,Pinot Grigio,89,No,22.99,42
+Spain,Cabernet Sauvignon,21,No,12.95,99
+Italy,Cabernet Sauvignon,40,No,14.99,127
+United States,Chardonnay,98,No,15.99,105
+Spain,Merlot,24,No,10.99,90
+Argentina,Malbec,1,No,19.99,54
+Argentina,Reisling,85,No,17.99,47
+Austraila,Cabernet Sauvignon,100,No,19.99,48
+Spain,Pinot Noir,89,No,12.95,66
+Italy,Pinot Grigio,1,No,18.95,44
+Argentina,Cabernet Sauvignon,23,No,18.95,33
+Spain,Cava,27,No,20.99,36
+Argentina,Chardonnay,79,No,13.99,96
+France,Prosecco,90,No,24.99,88
+France,Pinot Noir,66,No,19.95,50
+United States,Malbec,32,No,18.95,57
+United States,Prosecco,3,No,20.95,55
+Austraila,Reisling,97,No,11.95,81
+Italy,Pinot Noir,89,No,26.99,36
+United States,Prosecco,72,No,21.99,41
+Italy,Pinot Noir,77,No,12.95,63
+Argentina,Merlot,12,No,14.95,128
+Austraila,Cava,42,No,16.95,73
+Austraila,Merlot,90,No,15.95,101
+Spain,Cabernet Sauvignon,90,No,24.95,70
+Spain,Malbec,50,No,15.95,113
+France,Cabernet Sauvignon,81,No,20.95,39
+Austraila,Pinot Noir,14,No,16.99,93
+Austraila,Pinot Noir,7,No,15.99,115
+United States,Reisling,18,No,21.99,16
+Austraila,Chardonnay,89,No,21.95,50
+France,Reisling,90,No,22.99,40
+Austraila,Cabernet Sauvignon,90,No,28.95,49
+Italy,Cava,90,No,14.95,147
+United States,Chardonnay,63,No,18.99,55
+Spain,Cabernet Sauvignon,47,No,18.99,44
+France,Malbec,62,No,20.95,40
+Austraila,Pinot Noir,31,No,18.99,63
+Austraila,Cabernet Sauvignon,74,No,13.99,51
+Argentina,Merlot,26,No,14.99,79
+Austraila,Cava,7,No,16.95,78
+Italy,Cabernet Sauvignon,67,No,16.99,51
+Argentina,Malbec,99,No,14.95,98
+France,Malbec,48,No,22.95,14
+France,Merlot,4,No,16.95,80
+Austraila,Merlot,93,No,8.95,128
+France,Prosecco,64,No,15.95,72
+Spain,Cava,92,No,25.99,97
+Argentina,Pinot Grigio,7,No,10.95,66
+Spain,Pinot Noir,91,No,18.95,57
+Spain,Chardonnay,11,No,13.95,63
+Spain,Merlot,84,No,16.95,75
+Austraila,Pinot Noir,95,No,15.95,71
+Italy,Merlot,42,No,17.95,35
+Italy,Chardonnay,33,No,17.99,37
+Argentina,Cabernet Sauvignon,21,No,16.99,88
+United States,Pinot Grigio,74,No,14.99,104
+United States,Pinot Grigio,89,No,19.99,74
+Spain,Cabernet Sauvignon,10,No,14.95,137
+Argentina,Prosecco,47,No,16.95,73
+France,Pinot Noir,90,No,23.99,16
+United States,Cabernet Sauvignon,49,No,18.95,54
+Argentina,Merlot,72,No,18.99,47
+Austraila,Pinot Grigio,88,No,11.99,126
+Austraila,Cava,59,No,11.95,79
+France,Chardonnay,83,No,14.99,114
+Austraila,Merlot,51,No,15.99,121
+Italy,Malbec,13,No,13.95,75
+Austraila,Chardonnay,72,No,11.95,113
+Spain,Cabernet Sauvignon,91,No,29.99,83
+Argentina,Pinot Noir,89,No,22.99,26
+Austraila,Prosecco,32,No,17.95,67
+Argentina,Chardonnay,17,No,16.95,54
+Austraila,Cava,1,No,15.95,86
+Austraila,Cava,56,No,11.95,112
+United States,Malbec,91,No,32.99,67
+Italy,Chardonnay,75,No,13.95,92
+United States,Prosecco,38,No,18.95,79
+Argentina,Reisling,91,No,23.95,63
+Austraila,Cabernet Sauvignon,89,No,22.95,66
+Spain,Pinot Grigio,21,No,18.99,55
+Austraila,Pinot Grigio,89,No,23.95,44
+Argentina,Pinot Noir,64,No,21.99,18
+Spain,Merlot,89,No,12.95,177
+United States,Merlot,63,No,10.99,105
+Spain,Cabernet Sauvignon,89,No,16.99,64
+Spain,Chardonnay,50,No,16.99,95
+Spain,Malbec,31,No,13.95,121
+Argentina,Pinot Noir,19,No,14.99,57
+Spain,Merlot,67,No,8.95,62
+Austraila,Reisling,23,No,13.99,78
+Argentina,Merlot,51,No,8.99,76
+France,Cava,11,No,22.95,20
+Argentina,Merlot,85,No,15.95,99
+Argentina,Chardonnay,38,No,18.99,59
+United States,Prosecco,99,No,14.95,121
+France,Chardonnay,39,No,18.95,50
+Argentina,Prosecco,74,No,12.99,149
+Austraila,Cabernet Sauvignon,90,No,24.99,58
+Italy,Merlot,74,No,13.99,92
+Spain,Cabernet Sauvignon,89,No,18.99,35
+France,Cabernet Sauvignon,50,No,21.99,32
+United States,Cava,90,No,10.95,70
+France,Cava,91,No,29.95,79
+Spain,Cava,9,No,9.99,136
+United States,Chardonnay,66,No,11.99,111
+Spain,Chardonnay,91,No,23.95,23
+United States,Merlot,76,No,21.99,25
+United States,Cava,46,No,9.95,106
+Italy,Reisling,68,No,12.99,79
+France,Cabernet Sauvignon,76,No,15.99,123
+Italy,Prosecco,90,No,19.95,100
+Spain,Malbec,90,No,22.99,55
+Italy,Chardonnay,41,No,14.99,63
+United States,Merlot,80,No,13.99,135
+Austraila,Merlot,89,No,18.95,105
+United States,Pinot Noir,50,No,19.95,23
+United States,Pinot Noir,69,No,17.99,40
+Italy,Pinot Noir,83,No,18.95,38
+France,Chardonnay,16,No,18.99,47
+Argentina,Cava,89,No,26.99,40
+Argentina,Prosecco,89,No,19.95,73
+Italy,Merlot,36,No,16.95,99
+Austraila,Merlot,90,No,28.99,56
+France,Merlot,15,No,22.95,21
+Austraila,Cava,63,No,11.99,92
+Argentina,Chardonnay,91,No,29.95,70
+Spain,Cabernet Sauvignon,56,No,12.99,101
+Argentina,Pinot Grigio,13,No,11.95,104
+United States,Prosecco,12,No,14.95,138
+Italy,Cava,88,No,11.95,82
+France,Pinot Grigio,4,No,20.99,38
+United States,Cabernet Sauvignon,88,No,15.99,89
+Austraila,Reisling,90,No,16.99,85
+France,Pinot Noir,30,No,19.95,41
+Austraila,Pinot Grigio,38,No,12.99,76
+Argentina,Malbec,90,No,23.99,55
+France,Pinot Grigio,70,No,21.95,19
+Argentina,Prosecco,89,No,23.95,49
+Argentina,Chardonnay,40,No,14.99,147
+France,Pinot Grigio,19,No,17.99,70
+United States,Prosecco,90,No,26.95,83
+Austraila,Chardonnay,69,No,11.95,136
+Argentina,Merlot,89,No,22.95,36
+Italy,Cabernet Sauvignon,68,No,14.95,146
+Italy,Chardonnay,65,No,13.99,72
+United States,Prosecco,56,No,18.99,81
+Spain,Pinot Grigio,90,No,20.99,100
+Italy,Malbec,92,No,30.99,95
+Italy,Pinot Grigio,30,No,16.95,60
+France,Merlot,32,No,11.99,146
+Austraila,Prosecco,60,No,14.95,116
+Argentina,Malbec,1,No,14.99,55
+Spain,Cabernet Sauvignon,1,No,20.99,28
+United States,Chardonnay,69,No,15.99,99
+France,Prosecco,89,No,20.95,89
+France,Cava,13,No,21.95,17
+Spain,Pinot Noir,27,No,21.99,28
+Italy,Prosecco,35,No,14.95,103
+Austraila,Reisling,19,No,17.95,51
+Italy,Malbec,90,No,21.95,81
+Spain,Prosecco,18,No,15.99,115
+Italy,Merlot,77,No,11.99,82
+Spain,Cabernet Sauvignon,91,No,21.99,107
+United States,Cava,14,No,11.95,118
+France,Malbec,61,No,9.95,63
+United States,Reisling,90,No,22.99,45
+United States,Cabernet Sauvignon,89,No,21.95,26
+France,Merlot,41,No,15.95,51
+Argentina,Prosecco,53,No,11.99,140
+United States,Malbec,77,No,15.99,49
+United States,Reisling,32,No,16.95,55
+United States,Malbec,44,No,17.95,34
+United States,Malbec,17,No,12.99,100
+United States,Pinot Grigio,91,No,29.95,77
+Argentina,Malbec,79,No,13.99,61
+Italy,Cabernet Sauvignon,82,No,16.99,94
+Argentina,Reisling,48,No,10.99,84
+Spain,Merlot,91,No,23.95,87
+Argentina,Cava,65,No,17.99,81
+Argentina,Cabernet Sauvignon,10,No,12.95,90
+Austraila,Prosecco,82,No,16.95,109
+France,Chardonnay,87,No,21.95,13
+Italy,Cava,50,No,20.99,34
+United States,Cava,90,No,20.99,79
+France,Prosecco,4,No,20.99,62
+United States,Malbec,18,No,19.95,26
+United States,Malbec,14,No,11.95,134
+Austraila,Prosecco,89,No,19.95,76
+Austraila,Pinot Grigio,10,No,12.99,116
+Italy,Cava,89,No,16.95,64
+Argentina,Pinot Grigio,4,No,15.99,82
+France,Prosecco,100,No,21.99,41
+Argentina,Malbec,56,No,14.95,83
+Argentina,Malbec,76,No,15.99,75
+Austraila,Cabernet Sauvignon,90,No,26.99,56
+France,Prosecco,57,No,22.99,31
+Austraila,Reisling,93,No,17.99,18
+Argentina,Reisling,100,No,17.99,50
+France,Pinot Grigio,17,No,18.95,63
+France,Pinot Grigio,87,No,15.95,58
+Argentina,Cava,12,No,10.95,137
+United States,Prosecco,81,No,19.95,57
+Argentina,Chardonnay,89,No,21.95,61
+United States,Cabernet Sauvignon,89,No,24.95,43
+France,Pinot Grigio,18,No,14.95,61
+Austraila,Chardonnay,89,No,10.99,68
+France,Prosecco,27,No,15.95,68
+Spain,Pinot Noir,62,No,19.95,33
+France,Pinot Noir,21,No,20.99,33
+France,Pinot Noir,29,No,12.95,56
+Spain,Cabernet Sauvignon,71,No,11.95,53
+United States,Merlot,98,No,14.99,98
+United States,Malbec,92,No,23.95,22
+Italy,Cava,50,No,18.95,27
+Austraila,Reisling,90,No,22.99,58
+Argentina,Cabernet Sauvignon,28,No,14.95,125
+Austraila,Malbec,61,No,16.95,57
+France,Prosecco,34,No,16.99,85
+Austraila,Merlot,89,No,24.99,39
+France,Cabernet Sauvignon,71,No,14.99,147
+Italy,Cava,57,No,17.99,82
+Spain,Cava,89,No,21.99,49
+Argentina,Merlot,66,No,12.99,58
+Italy,Pinot Grigio,86,No,11.99,126
+Austraila,Merlot,86,No,11.99,126
+United States,Chardonnay,69,No,17.95,39
+Austraila,Cava,51,No,17.95,57
+Argentina,Pinot Grigio,63,No,10.95,74
+France,Cabernet Sauvignon,89,No,24.95,31
+United States,Cava,32,No,17.95,48
+France,Reisling,49,No,20.99,6
+United States,Pinot Noir,70,No,18.95,46
+Austraila,Reisling,71,No,11.99,81
+Spain,Malbec,89,No,20.95,48
+Italy,Cava,36,No,19.95,55
+United States,Malbec,91,No,18.99,33
+United States,Cabernet Sauvignon,91,No,17.95,75
+Argentina,Cava,55,No,14.99,94
+Austraila,Pinot Grigio,37,No,10.95,113
+Spain,Cabernet Sauvignon,69,No,12.99,124
+United States,Merlot,89,No,22.95,44
+Spain,Reisling,14,No,14.95,44
+Argentina,Pinot Noir,80,No,16.99,90
+Argentina,Merlot,65,No,17.95,66
+Argentina,Malbec,23,No,14.95,135
+United States,Merlot,89,No,24.99,34
+Austraila,Prosecco,65,No,12.99,118
+Italy,Chardonnay,12,No,18.95,45
+Spain,Prosecco,5,No,12.99,93
+France,Pinot Noir,16,No,20.99,26
+Argentina,Merlot,18,No,14.99,106
+France,Reisling,69,No,13.95,39
+Argentina,Merlot,19,No,18.95,27
+Austraila,Chardonnay,80,No,15.99,72
+United States,Pinot Grigio,90,No,25.99,68
+Argentina,Pinot Noir,7,No,12.95,51
+Spain,Cava,15,No,14.95,114
+France,Reisling,62,No,18.95,47
+Spain,Prosecco,10,No,15.99,76
+United States,Merlot,66,No,11.95,72
+United States,Pinot Grigio,4,No,15.99,99
+France,Cava,84,No,14.99,102
+Spain,Merlot,31,No,14.99,63
+Austraila,Pinot Grigio,16,No,13.95,81
+Austraila,Malbec,42,No,14.95,71
+France,Pinot Grigio,22,No,16.99,60
+Argentina,Pinot Grigio,90,No,25.95,66
+Argentina,Pinot Grigio,38,No,14.95,77
+United States,Pinot Grigio,43,Yes,16.95,89
+France,Merlot,45,No,16.95,82
+Austraila,Cabernet Sauvignon,1,No,12.99,117
+United States,Chardonnay,56,No,14.99,143
+Spain,Malbec,72,No,13.99,138
+Austraila,Cava,84,No,15.99,84
+United States,Merlot,72,No,12.99,143
+United States,Merlot,9,No,18.99,35
+Spain,Pinot Grigio,97,No,14.95,60
+Austraila,Prosecco,72,No,12.99,135
+Italy,Pinot Noir,89,No,19.95,31
+Italy,Merlot,14,No,10.95,117
+France,Cava,49,No,19.99,50
+Argentina,Pinot Grigio,47,No,10.95,122
+United States,Reisling,91,No,34.95,49
+United States,Cava,89,Yes,27.95,67
+Italy,Cabernet Sauvignon,43,No,11.95,83
+Argentina,Pinot Grigio,37,No,11.99,110
+Austraila,Cabernet Sauvignon,47,No,14.99,117
+France,Pinot Grigio,30,No,12.95,144
+United States,Malbec,96,Yes,14.95,108
+United States,Cabernet Sauvignon,68,No,19.95,30
+Spain,Merlot,89,No,19.95,71
+United States,Pinot Grigio,67,No,8.95,116
+Argentina,Chardonnay,46,No,11.99,125
+Italy,Malbec,63,No,10.99,119
+France,Cabernet Sauvignon,15,No,17.99,50
+United States,Prosecco,64,No,21.95,39
+Austraila,Chardonnay,48,No,13.95,51
+France,Reisling,56,No,17.99,55
+Argentina,Pinot Grigio,97,No,19.99,27
+United States,Pinot Grigio,50,Yes,18.95,66
+Argentina,Malbec,25,No,11.95,91
+Argentina,Malbec,98,No,20.99,39
+Austraila,Pinot Grigio,35,No,14.99,60
+Austraila,Reisling,68,No,12.95,44
+Austraila,Chardonnay,82,No,13.95,67
+Argentina,Prosecco,26,No,12.95,104
+France,Malbec,68,No,13.95,121
+Austraila,Reisling,12,No,13.95,81
+Argentina,Merlot,11,No,15.99,103
+Spain,Pinot Grigio,99,No,13.95,89
+Italy,Prosecco,91,No,30.99,94
+Argentina,Chardonnay,13,No,18.95,66
+Austraila,Chardonnay,91,No,22.99,97
+Argentina,Cava,36,No,12.99,138
+Argentina,Merlot,89,No,21.99,57
+United States,Cabernet Sauvignon,23,No,16.99,66
+Austraila,Cabernet Sauvignon,52,No,14.95,71
+Argentina,Pinot Noir,75,No,18.95,57
+France,Chardonnay,90,No,20.99,87
+Austraila,Cava,41,No,13.95,60
+Austraila,Merlot,6,No,12.95,78
+United States,Merlot,78,Yes,17.95,80
+United States,Merlot,35,No,12.95,95
+Argentina,Cava,75,No,16.99,83
+Austraila,Cava,29,No,10.95,54
